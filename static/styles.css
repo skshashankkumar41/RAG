@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#chatbox {
+    max-width: 600px;
+    background-color: #fff;
+}
+
+#messages {
+    height: auto;
+    max-height: 300px;
+    overflow-y: auto;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
+
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+.metadata {
+    font-size: 0.9em;
+    background-color: #e9ecef;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.metadata-toggle {
+    cursor: pointer;
+    color: #007bff;
+}
