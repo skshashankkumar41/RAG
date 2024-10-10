@@ -1,4 +1,4 @@
-# MultiModal-RAG
+# RAG
 
 ## Table of Contents
 
